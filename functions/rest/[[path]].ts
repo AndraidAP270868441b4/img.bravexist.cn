@@ -1,8 +1,8 @@
 import { error } from 'itty-router-extras';
 
 export interface Env {
-  AUTH_TOKEN: string
-  COPY_URL: string
+  AUTH_TOKEN: https://img.bravexist.cn
+  COPY_URL: https://img.bravexist.cn
   R2: R2Bucket
 }
 
